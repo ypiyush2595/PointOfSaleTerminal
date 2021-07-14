@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fz6zjdZSJgDaBn7W4j4Dg94VIGLQoQIMtlpZYW8BV+z6+hMdRILMWDh4U5LKSZBVgtSmHEU9uhjoWhuo/X/Y8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ypadav\\source\\repos\\PointOfSaleTerminal\\PointOfSaleServices\\PointOfSaleServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ypadav\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ypadav\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

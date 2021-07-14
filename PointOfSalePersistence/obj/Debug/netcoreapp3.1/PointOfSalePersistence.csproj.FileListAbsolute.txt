@@ -1,0 +1,9 @@
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\bin\Debug\netcoreapp3.1\PointOfSalePersistence.deps.json
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\bin\Debug\netcoreapp3.1\PointOfSalePersistence.dll
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\bin\Debug\netcoreapp3.1\PointOfSalePersistence.pdb
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\obj\Debug\netcoreapp3.1\PointOfSalePersistence.csprojAssemblyReference.cache
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\obj\Debug\netcoreapp3.1\PointOfSalePersistence.AssemblyInfoInputs.cache
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\obj\Debug\netcoreapp3.1\PointOfSalePersistence.AssemblyInfo.cs
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\obj\Debug\netcoreapp3.1\PointOfSalePersistence.csproj.CoreCompileInputs.cache
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\obj\Debug\netcoreapp3.1\PointOfSalePersistence.dll
+C:\Users\ypadav\source\repos\PointOfSaleTerminal\PointOfSalePersistence\obj\Debug\netcoreapp3.1\PointOfSalePersistence.pdb
